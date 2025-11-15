@@ -1,0 +1,21 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment & config files
+.env
+config.json
+
+# IDE files
+.vscode/
+.idea/
